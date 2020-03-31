@@ -18,6 +18,9 @@ in your terminal ```rails db:migrate```
 You can interact with this app on ```localhost://3000```
 
 Run ```rails server```
+
+## Contributor
+* [Danilo Zagarcanin ](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
  
  
 
