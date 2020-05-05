@@ -11,13 +11,34 @@ This project was completed in line with standards provided by [Microverse](https
 * Rails 
 * SQLite
 
-###### Database initialization
-in your terminal ```rails db:migrate```
+## Usage
 
-###### Deployment
-You can interact with this app on ```localhost://3000```
+> Clone the repository to your local machine
 
-Run ```rails server```
+```sh
+$ git clone https://github.com/danilozag1992/RE-FORMER.git
+```
+> cd into the directory
+
+```sh
+$ cd RE-FORMER
+```
+##### To create Database
+```sh
+$ rails db:create
+```
+##### Run Migrations
+```sh
+$ rails db:migrate
+```
+##### Install Gems
+```sh
+$ bundle install
+```
+##### Run Server
+```sh
+$ rails s
+```
 
 ## Contributor
 * [Danilo Zagarcanin ](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
